@@ -1,7 +1,7 @@
 # Youtube -> mp3 
 
 ## Description
-Download all songs from a YouTube playlist, rename files and change metadata tags (artist, title, album name & album cover)
+Download all songs from a YouTube playlist, rename files and change metadata tags (artist, title, track n° album name & album cover)
 
 
 ## Installation & use
