@@ -15,7 +15,7 @@ youtubekey="YOUR_API_KEY"
 ffmpegPath="YOUR_PATH"
 ```
 
-- Install package
+- Install packages
 
 ```bash
 npm install
@@ -32,7 +32,7 @@ node index.js
 
 - 3rd step : The program gives you time to change the titles you are not satisfied of. After that, juste type anything and the program will exit, after updating the title tags.
 
-- 4th step : You can find all mp3 files in the `out` folder
+- 4th step : You can get all mp3 files in the `out` folder
 
 ## Details
 I use the package `youtube-mp3-downloader` to convert & download which takes 1mn/video. I'll try to find something faster.
